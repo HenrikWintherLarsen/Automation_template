@@ -4,11 +4,11 @@
 *.db
 
 #Folders to ignore
-data/
-data_for_testing/
-exported_data/
-logfiles/
-div_dokumentation/
+#data/
+#data_for_testing/
+#exported_data/
+#logfiles/
+#div_dokumentation/
 
 #VS code
 .vscode
